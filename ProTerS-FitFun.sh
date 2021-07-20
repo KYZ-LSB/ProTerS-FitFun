@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#### This script will require path to Stride, Naccess and CLASS.exe
 
 ####################################################################
 PTSFF=$(pwd)
